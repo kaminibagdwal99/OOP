@@ -1,13 +1,14 @@
 # abstraction : hidden to apply constrait
 '''
-you are senior most developer n u are going to develop a bankapp  which is inherited by webapp and mobile app . 
-you want if webapp and mobileapp inherit the bank app they have to implement a security method in their class
-bank app have thwo method databse connection and secruity where secuirty is the abtract method
+you are senior most developer n u are going to develop a bankapp  which is inherited by 
+webapp and mobile app.you want if webapp and mobileapp inherit the bank app they have to
+implement a security method in their class bank app have thwo method databse connection
+and secruity where secuirty is the abtract method
 
-abstract method is the method which is have no code but for child class, implementaion is different for secuirty.
-we make abstract class by sing abc(abstract class)  ABC and abstract method. that class should have 
-atleat one abstract method. also we cannot make object of abstract class
-when web app and mobile app will inherit from the bank app and 
+abstract method is the method which is have no code but for child class, implementaion 
+is different for secuirty.we make abstract class by sing abc(abstract class)  ABC and 
+abstract method. that class should have atleat one abstract method. also we cannot make
+object of abstract class when web app and mobile app will inherit from the bank app and 
 '''
 
 

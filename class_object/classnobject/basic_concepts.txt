@@ -1,7 +1,9 @@
 OOP: Python uses classes and object to represent real world entity. Everything in python is object
 
 
-Classes: It is a blueprint or template for creating objects. It defines the methods and properties that objects can have. Property is the data or state of the object. While the method are action and behaviour that object can performed.
+Classes: It is a blueprint or template for creating objects. It defines the methods and properties that
+ objects can have. Property is the data or state of the object. While the method are action and behaviour 
+ that object can performed.
 Data: property
 Function: behaviour
 Syntax
@@ -9,23 +11,26 @@ Class ClassName ( in pascal)
 Variable / function : snake case 
 Object: it is an instance of the class.
 Object_name = ClassName() // create object in python
-Encapsulation :  internal state of the object is hidden and can only be accessed and modified through class method. 
-Inheritance  : it allows the classes to inherit  methods and properties of the existing classes. It alloe code reuse and make it easy to create new classes that have same functionality as existing classes.
+Encapsulation :  internal state of the object is hidden and can only be accessed and modified through class
+method. 
+Inheritance  : it allows the classes to inherit  methods and properties of the existing classes. It allow
+code reuse and make it easy to create new classes that have same functionality as existing classes.
 Polymorphism:
 Abstraction: 
 
 Function vs method : method is a special function written inside a class L.append() 
 Function: len(L)
 
-__init__: it is a constructor is a special method which is automatically called when object of the class is created. 
-It is a magic method/ dunder method. The control of init is not performed by user. it is used to write configuration 
-related things such as databse configuration and code to connect to  internet.
+__init__: it is a constructor is a special method which is automatically called when object of the class 
+is created. 
+It is a magic method/ dunder method. The control of init is not performed by user. it is used to write 
+configuration related things such as databse configuration and code to connect to  internet.
 
-Self: When working with classes in Python, the term “self” refers to the instance of the class that is currently
- being used. It is customary to use “self” as the first parameter in instance methods of a class. 
+Self: When working with classes in Python, the term “self” refers to the instance of the class that is 
+currently being used. It is customary to use “self” as the first parameter in instance methods of a class. 
 Whenever you call a method of an object created from a class, the object is automatically passed as the 
-first argument using the “self” parameter. This enables you to modify the object’s properties and execute tasks 
-unique to that particular instance.
+first argument using the “self” parameter. This enables you to modify the object’s properties and execute
+tasks unique to that particular instance.
 
 
 *******object can only access data and function inside the class.*****
