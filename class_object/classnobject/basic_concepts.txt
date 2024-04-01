@@ -1,4 +1,7 @@
-OOP: Python uses classes and object to represent real world entity. Everything in python is object
+OOP: Python uses classes and object to represent real world entity. Everything in python is object.
+
+it will do generality to specifity. the power of oops is that it gives programmer to build his own datatype 
+    as per his requirement to build real time application
 
 
 Classes: It is a blueprint or template for creating objects. It defines the methods and properties that

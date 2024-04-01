@@ -1,6 +1,6 @@
 class Atm:
 
-    """__init__: it is a constructor is a special method which 
+    """__init__: it is a constructor which is a special method which 
     is automatically called when object of the class is created. 
     It is a magic method/ dunder method. The control of init is not
      performed by user."""
